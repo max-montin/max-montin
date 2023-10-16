@@ -1,4 +1,4 @@
-### Hi there 👋
+[Link to my personal project portfolio](https://github.com/max-montin/ProjectPortfolio#project-portfolio)
 
 <!--
 **max-montin/max-montin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
